@@ -1,0 +1,2 @@
+x = button_a.get_presses()
+display.scroll(str(x))
